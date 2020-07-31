@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^2.0.2",
-    "dot-prop": ">=5.1.1"
+    "nodemon": "^2.0.2"
   }
 }
