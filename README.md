@@ -13,3 +13,9 @@ Content:
 
 Extras: 
 * Template Literals
+
+### How to use it
+
+Run
+- `npm start`
+- Have fun
