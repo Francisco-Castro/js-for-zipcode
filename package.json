@@ -2,13 +2,20 @@
   "name": "js-for-zipcode",
   "version": "1.0.0",
   "description": "Content:",
-  "main": "00-Introduction.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack-dev-server --open"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "nodemon": "^2.0.2"
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "hyperscript": "^2.0.2",
+    "hyperscript-helpers": "^3.0.3",
+    "virtual-dom": "^2.1.1",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.4"
   }
 }
