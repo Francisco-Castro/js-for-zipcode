@@ -15,6 +15,6 @@
     "hyperscript-helpers": "^3.0.3",
     "virtual-dom": "^2.1.1",
     "webpack": "^4.10.0",
-    "webpack-dev-server": "^3.11.0"
+    "webpack-dev-server": "^5.0.2"
   }
 }
